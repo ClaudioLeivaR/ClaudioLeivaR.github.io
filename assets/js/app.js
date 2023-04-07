@@ -72,7 +72,7 @@ function efectoHabilidades(){
             pintarBarra(php, 16, 4, intervalPhp);
         },100);
         const intervalIlustrator = setInterval(function(){
-            pintarBarra(ilustrator, 11, 5, intervalIlustrator);
+            pintarBarra(ilustrator, 12, 5, intervalIlustrator);
         },100);
     }
 }
